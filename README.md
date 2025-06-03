@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panucci-juggernaut" alt="panucci-juggernaut" /></a> </p>
 
-- 🌱 I’m currently learning **MERN auth**
+- 🌱 I’m currently learning **OAuth**
 
 - 💬 Ask me about **MERN, Next.js**
 
