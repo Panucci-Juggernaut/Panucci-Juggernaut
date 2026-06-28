@@ -8,7 +8,7 @@
 - Build scalable applications with **MERN, Node.js & Laravel**  
 - Strong in **API design, authentication & system architecture**  
 - Experience with **MongoDB & SQL databases**  
-- Currently exploring **Java & DevOps**  
+- Currently exploring **C#, Java & DevOps**  
 
 ---
 
